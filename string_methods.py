@@ -1,0 +1,11 @@
+name = "dawid"
+#print(len(name))
+#print(name.find('w'))
+#print(name.capitalize())
+#print(name.upper())
+#print(name.lower())
+#print(name.isdigit())
+#print(name.isalpha())
+#print(name.count('d'))
+#print(name.replace('d','b'))
+print(name*100)
