@@ -1,0 +1,6 @@
+name = input("jakie jest twoje imie?:")
+age = int(input("ile masz lat?:"))
+height = float(input('ile wynosi twoj wzrost?:'))
+print('siemka '+name)
+print('twoj wiek wynosi: '+str(age))
+print('twoj wzrost wynosi '+ str(height) + 'cm')
